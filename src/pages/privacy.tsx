@@ -69,9 +69,7 @@ const PrivacyPolicy = () => {
         which it was collected unless you have otherwise consented, or when it
         is required or permitted by law. Personal Information will only be
         retained for the period of time required to fulfill the purpose for
-        which we collected it or as may be required by law. [If applicable,
-        include a description of any parties with whom you may share Personal
-        Information.]
+        which we collected it or as may be required by law.
       </p>
 
       <p></p>
@@ -132,7 +130,7 @@ const PrivacyPolicy = () => {
 
       <p></p>
 
-      <p>[Contact Information]</p>
+      <p>info@nanorecipes.com</p>
 
       <p></p>
 
