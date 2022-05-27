@@ -42,7 +42,9 @@ const Hero = () => (
               <div className="justify-center items-center space-y-4 sm:flex sm:space-y-0 sm:space-x-4">
                 <a
                   href="#"
+                  target="_blank"
                   className="w-full sm:w-auto flex bg-gray-800 hover:bg-gray-700 focus:ring-4 focus:ring-gray-300 text-white rounded-lg inline-flex items-center justify-center px-4 py-2.5 dark:bg-gray-700 dark:hover:bg-gray-600 dark:focus:ring-gray-700"
+                  rel="noreferrer"
                 >
                   <svg
                     className="mr-3 w-7 h-7"
@@ -67,8 +69,10 @@ const Hero = () => (
                   </div>
                 </a>
                 <a
-                  href="#"
+                  href="https://play.google.com/store/apps/details?id=com.wicombit.nanorecipes"
+                  target="_blank"
                   className="w-full sm:w-auto flex bg-gray-800 hover:bg-gray-700 focus:ring-4 focus:ring-gray-300 text-white rounded-lg inline-flex items-center justify-center px-4 py-2.5 dark:bg-gray-700 dark:hover:bg-gray-600 dark:focus:ring-gray-700"
+                  rel="noreferrer"
                 >
                   <svg
                     className="mr-3 w-7 h-7"
