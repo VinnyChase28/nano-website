@@ -15,6 +15,11 @@ const Hero = () => (
             <a>Privacy Policy</a>
           </Link>
         </li>
+        <li>
+          <Link href="/support">
+            <a>Support</a>
+          </Link>
+        </li>
         {/* <li>
           <Link href="/">
             <a>Sign in</a>
