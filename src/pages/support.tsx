@@ -7,7 +7,7 @@ const Support = () => {
         <a>{`<- Home`}</a>
       </Link>
       <h2 className="text-4xl p-8">For Nano Recipes support: </h2>
-      <p>Pleae email info@nanorecipes.com</p>
+      <p>Please email info@nanorecipes.com</p>
     </div>
   );
 };
